@@ -1,0 +1,12 @@
+.mat-table{
+  overflow: auto;
+  max-width: 600px;
+}
+
+.action-column{
+  justify-content: center;
+}
+
+.action-column-header{
+  justify-content: center;
+}
